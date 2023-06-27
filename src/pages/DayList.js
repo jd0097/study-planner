@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const DayList = () => {
-  return (
-    <div>DayList</div>
-  )
-}
+  return <div>DayListdjoaiwd</div>;
+};
 
-export default DayList
+export default DayList;
